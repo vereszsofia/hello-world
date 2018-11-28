@@ -1,5 +1,7 @@
 # hello-world
 learning to use bithub
-total begginer
+total
+begginer
 nerd
 nuts
+
